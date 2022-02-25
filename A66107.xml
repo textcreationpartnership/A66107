@@ -1,0 +1,630 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ne sutor ultra crepidam, or, Brief animadversions upon the New-England Anabaptists late fallacious narrative wherein the notorious mistakes and falshoods [sic] by them published are detected / by Samuel Willard, teacher of a church in Boston in New England.</title>
+            <author>Willard, Samuel, 1640-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66107</idno>
+            <idno type="STC">Wing W2288</idno>
+            <idno type="STC">ESTC R33664</idno>
+            <idno type="EEBO-CITATION">13546426</idno>
+            <idno type="OCLC">ocm 13546426</idno>
+            <idno type="VID">100142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ne sutor ultra crepidam, or, Brief animadversions upon the New-England Anabaptists late fallacious narrative wherein the notorious mistakes and falshoods [sic] by them published are detected / by Samuel Willard, teacher of a church in Boston in New England.</title>
+                  <author>Willard, Samuel, 1640-1707.</author>
+                  <author>Mather, Increase, 1639-1723.</author>
+               </titleStmt>
+               <extent>[8], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Green upon assignment of S. Sewall and are to be sold by Sam. Philips ...,</publisher>
+                  <pubPlace>Boston in New England :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to John Russell's A brief narrative--NUC pre-1956 imprints.</note>
+                  <note>"To the reader" signed: Increase Mather.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, John. --  A brief narrative.</term>
+               <term>Baptists --  Controversial literature --  Congregational authors.</term>
+               <term>Baptists --  New England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100142:1"/>
+            <pb facs="tcp:100142:1" rendition="simple:additions"/>
+            <p>
+               <hi>Ne Sutor ultra Crepidam.</hi>
+            </p>
+            <p>OR BRIEF ANIMADVERSIONS Upon the <hi>NEW-ENGLAND</hi> Anabaptiſts LATE FALLACIOUS <hi>NARRATIVE; Wherein the Notorious Miſtakes and Falſhoods</hi> by them <hi>Publiſhed, are Detected.</hi>
+            </p>
+            <p>By <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Willard</hi> Teacher of a Church in <hi>Boſton</hi> in <hi>New-England.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 18. 17.</bibl> He that is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſt in his own cauſe ſeemeth juſt; but his neighbour cometh and ſearcheth him.</q>
+            <q>
+               <bibl>Rom. 16. 17.</bibl>
+               <p>Now I beſeech you Brethren, mark them which cauſe diviſions and offences contrary to the Doctrine which ye have learned, and avoid them</p>
+               <p>18. <hi>For they that are ſuch, ſerve not our Lord Jeſus Chriſt, but their own belly, and by good words, and fair ſpeeches de<g ref="char:EOLhyphen"/>ceive the hearts of the ſimple.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>BOSTON IN NEW-ENGLAND,</hi> Printed by <hi>S. Green,</hi> upon Aſſignment of <hi>S. Sewall.</hi> And are to be Sold by <hi>Sam. Philips,</hi> at the Weſt end of the <hi>Exchange:</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100142:2"/>
+            <pb facs="tcp:100142:2"/>
+            <head>To the READER.</head>
+            <p>THe Anabaptiſts in <hi>New-England,</hi> have in their Narrative lately pub<g ref="char:EOLhyphen"/>liſhed, endeavoured to make <hi>Candida de nigris &amp; de candentib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s atra,</hi> themſelves the <hi>Innocent</hi> perſons, and the Lords ſervants here, no better than <hi>Perſecutors.</hi> In which reſpect, it hath been judged neceſſary, that ſome one ſhould <hi>Animadvert</hi> upon what they have done, that ſo ſuch perſons as have been impoſed upon by their untrue Relations, may be diſabuſed. Many are of the mind, that it is not worth the while, to take notice of what is emitted, by men ſo obſcure and inconſiderable. And I confeſs I have thought ſo my ſelf, ſo far as I am perſonally concerned in any of their re<g ref="char:EOLhyphen"/>flections; and therefore ſhall not loſe precious time in a needleſs defence. <hi>Ita concurrimus utrinque; illiextremo furore, ego ſummo contemptu; &amp; vincit mea auda<g ref="char:EOLhyphen"/>cia in Chriſto.</hi> It ſeems to me, that the Reverend Author of the following <hi>Animad<g ref="char:EOLhyphen"/>verſions,</hi> hath ſhewed much humility, in condeſcending to take perſons in hand, be<g ref="char:EOLhyphen"/>tween whom, and himſelf there is ſuch an <hi>Impar congreſſus,</hi> and let it be, that for this once, He hath contradicted that proverbial ſaying <hi>Aquila non capit Muſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s.</hi> Had he not been ſenſible, that by good words, and fair ſpeeches the hearts of the ſimple are deceived, this pains would have been ſpared. I verily believe, that the Ana<g ref="char:EOLhyphen"/>baptiſts by their <hi>fallacious Narrative,</hi> have grievouſly offended God; inaſmuch as the things by them miſrepreſented, were not done a far off (for then miſtakes a<g ref="char:EOLhyphen"/>bout them would have been excuſable) but at home, where right Information was eaſie to have been obtained; had they been willing to have known, and that others ſhould have known the truth. And by this means, have they done ill for themſelves, forcing others to diſcover the enormities of ſome, whoſe nakedn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs and ſhame ſhould not have been divulged to the World, and to poſterity fore<g ref="char:EOLhyphen"/>ver; but ſlept in a grave of ſilence: had not their own <hi>Narrative</hi> brought them forth. They have alſo by <hi>Letters,</hi> miſrepreſented worthy and honourable perſons as well as things, and their reports have been received elſewhere, with too much readineſs and credulity, as I perceive by certain Complainants, whoſay they under<g ref="char:EOLhyphen"/>ſtand that the preſent Honourable Governour of this Colony, had threatned th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> poor people, their Chriſtian friends (as they ſtile them) with death: which re<g ref="char:EOLhyphen"/>report of theirs, is like too many particulars in their vindication, an <hi>utter miſtake; ne qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gravius dicam.</hi> The Governour (whoſe integrity, wiſdome, and modera<g ref="char:EOLhyphen"/>tion is well known) hath ſometimes moved, that an old ſevere Law made againſt thoſe that ſhould manifeſt any publick contempt of that ordinance of <hi>Infant Bap<g ref="char:EOLhyphen"/>tiſme,</hi> might be lenifyed. So far is the ſcandalous report which they have raiſed upon the Governour (and cauſed it to fly three thouſand miles) from being true.</p>
+            <p>As for the <hi>Brethren,</hi> that have thought good to prefix an Epiſtle to ſuch a <hi>Narra<g ref="char:EOLhyphen"/>tive,</hi> and therein to declare, that <hi>Moleſtation is given, and ſeverity is exerciſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Antipaedobaptiſts in New-England, meerly for a ſuppoſed Error about the ſubject of Bap<g ref="char:EOLhyphen"/>tiſme, controverted amongſt learned and holy men,</hi> they are marvelouſly deceived in
+<pb facs="tcp:100142:3"/> that their ſuppoſition<g ref="char:punc">▪</g> poſſibly I do not fully cape their meaning when they ſay, that <hi>for one Proteſtant Congregation to perſecute another; is more unreaſonable than all the cruelties of the Romiſh Church:</hi> Some are ready to take it for an intimation that the Churches of Chriſt in <hi>New-England,</hi> are more cruel and unreaſonable than the Romiſh Synagogue; like as the Anabaptiſts in <hi>Germany,</hi> look d upon ſuch Men as <hi>Luther, Bullinger, Calvin, Zuinglius,</hi> &amp;c. to be worſe than the Pope and his Cardinals. But I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are far from any ſuch inſinuation, and that they de<g ref="char:EOLhyphen"/>ſign no other then to ſuggeſt unto us, that for men whom God hath by his holy ſpirit made one through faith in Chriſt, to be cruel to their Brethren, is moſt un<g ref="char:EOLhyphen"/>reaſonable. Which A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ertion, (though true <hi>in Theſi</hi>) if applied to the Chur<g ref="char:EOLhyphen"/>ches of the Lord Jeſus, in this Wildern<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs; it is both an erroneous conception, and un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t reflection. Proteſtants ought not to <hi>perſecute</hi> any; yet, that Prote<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ants ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>puniſh</hi> Proteſtants; and as the caſe may be circumſtanced, a Congre<g ref="char:EOLhyphen"/>gation of ſuch as call themſelves Proteſtants: cannot rationally be denied. Thoſe of <hi>the Congregational way</hi> (as themſelves in the preface to their confeſſion of Faith have profeſſed) f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly concurre with the <hi>old</hi> puritan <hi>Non-conformiſts,</hi> ſuch as <hi>Cart<g ref="char:EOLhyphen"/>wright, Rainold, Whitaker, Bains, Parker,</hi> &amp;c. in whoſe writings, <hi>Congregational Princi<g ref="char:EOLhyphen"/>ples,</hi> about Church Government, are to be ſeen Now the old Nonconformiſts (not<g ref="char:EOLhyphen"/>withſtanding their ſufferings from thoſe that took delight to ſmite their fellow<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvants) did believe that diſorders in whole Congregations were liable to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Magiſtrates cenſure, as is evident from that excellent and judicious Book, cal<g ref="char:EOLhyphen"/>led <hi>Pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aniſmus Anglicanus,</hi> compoſed by Mr. <hi>Bradſhaw,</hi> and publiſhed by Dr. <hi>Ames. Affirmant ſi particul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is aliqua eccleſia erraverit, Magiſtratus civilis debet ean<g ref="char:EOLhyphen"/>dem in ordinem redigere,</hi> Cap. 2. Th. 6. Why then ſhould we be rendred as men of bitter, perſec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting, rigid ſpirits and principles; when we ſay nothing b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t what our Fathers, <hi>the old Puritans,</hi> (worthy Confeſſors, and ſufferers for the Truth) <hi>con<g ref="char:EOLhyphen"/>ſtantly affirmed.</hi> Our famous <hi>Cotton,</hi> was another <hi>Moſes,</hi> in reſpect of meekneſs, and chriſtian forbearance, as to Diſſenters from his judgement in matters of a leſſer concernment, yet would he ſometimes make a zealous Proteſtation, that if Ma<g ref="char:EOLhyphen"/>gi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rates in <hi>New-England</hi> ſhould tolerate Tranſgreſſors againſt the Rules of <hi>god<g ref="char:EOLhyphen"/>lineſs</hi> (as well as offences contrary to what the rules of <hi>honeſty</hi> require) he be<g ref="char:EOLhyphen"/>lieved that God would not long tolerate them. And whereas the Brethren that have ſubſcrib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Epiſtle, pray the Honourable Governours in <hi>New-England,</hi> to be careful of doing that which may give occaſion of trouble to <hi>Nonconformiſts</hi> elſewhere: I ſhall heartily joyn with them in the ſame requeſt; and I can aſſure them, that conſideration hath cauſed more indulgence to be exerciſed towards their Friends (as they call them) here, than ever they were worthy of. And I hope it will be ſo ſtill, ſo far as may conſiſt with Scripture Rules, and the ſafety of the intereſt of Chriſts Kingdome in this Wilderneſs. Theſe Churches are <hi>Tender vines,</hi> and I cannot perſwade my ſelf, that the Brethren when they rightly underſtand things, will think that the Magiſtrate ſhould ſee <hi>little Foxes ſpoiling</hi> them, and ſhould look on all the while, as one no way concerned. As for thoſe of the <hi>Antip<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dobaptiſtical perſwaſion,</hi> which differ from us only in that particular, I would ſpeak to them as unto Brethren, whom (their Error (for ſo I believe it is) notwithſtanding) I love, and would b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar with, and exerciſe the ſame indul<g ref="char:EOLhyphen"/>gence and compaſſion towards them, as I would have others do to me, who feel my ſelf compaſſed with infirmities.</p>
+            <p>I have been a poor labourer in the Lords Vineyard in this place upwards of twenty years: and it is more than I know, if in all that time, any of thoſe that ſcruple Infant-Baptiſme, have met with moleſtation from the Magiſtrate meerly
+<pb facs="tcp:100142:3"/> on the account of their Opinion. I would therefore intreat the <hi>Brethren,</hi> (and others of their perſwaſion; who may be of a Chriſtian and moderate ſpirit) that have ſubſcribed the Epiſtle, ſeriouſly to conſider;</p>
+            <p>1. That the place may ſometimes make a great alteration, as to indulgence to be expected. It is evident, that that Toleration is in one place, not only lawful, but a neceſſary duty, which in another place would be deſtructive; and the expectation of it irrational. That which is needful to ballaſt a great ſhip, will ſink a ſmall boat. If a conſiderable number of <hi>Antipaedobaptiſts</hi> ſhould (as our Fathers here did) obtain Liberty from the State, to tranſport themſelves and families, into a waſt <hi>American wilderneſs,</hi> that ſo they might be a peculiar People by themſelves; practiſing all, and only the inſtitutions of Chriſt: if now <hi>Pado-Baptiſts</hi> ſhould come after them, and intrude themſelves upon them, and when they caſt men out of their ſociety for moral Scandals, entertain them: Surely they would deſire ſuch perſons; either to walk orderly with them, or to return to the place from whence they came. And if they would do neither, they would think that ſuch <hi>Pado-Baptiſts</hi> were blame-worthy: let them th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n do as they would be done by; and deal by us, as they would have us to deal by them; were they in our caſe, and we in theirs.</p>
+            <p>2. Let them pleaſe to conſider, that thoſe of their perſwaſion in this place, have acted with ſo much irregularity and prophaneneſs, that ſhould men of any other perſwaſion whatſoever, have done the like, the ſame ſeverity would have been uſed towards them. I truly profeſs unto them, that if any men, either of the Presbyterian, or Congregational (or never ſo much of my) perſwaſion in matters referring to Church-Diſcipline, ſhould behave themſelves as the Anabap<g ref="char:EOLhyphen"/>tiſts in <hi>Boſton,</hi> in <hi>New-England,</hi> have done, I think they would have deſerved far greater puniſhment than any thing that to this day, hath been inflicted upon them. Whether the ſentence paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d on them by the Churches, proceeding in the Name of the Lord Jeſus, were only the abuſe of an holy Ordinance; or a righteous proceſs according to Scripture Rule: the following Animadverſions, will diſcover unto thoſe that are willing to weigh matters impartially, in the ballance of the Sanctuary. How vain is it for men, after they have received ſuch Excommuni<g ref="char:EOLhyphen"/>cates into their communion, and then perceive that the World cries ſhame on them for it; and ſome of their own perſwaſion reprove them: in ſtead of abhor<g ref="char:EOLhyphen"/>ring themſelves before God and the World; and purging out the old leven, to think they ſhall come off with ſaying, <hi>It was a defect! and who in this world are without their failings?</hi> and then by retaining ſuch in their communion to perſiſt in their ſcandal to this very day? To parallel the caſe of the Anabaptiſts in <hi>New-England,</hi> with that of the <hi>Nonconformiſis</hi> in <hi>England,</hi> ſeems moſt unreaſonable. Do the conforming Congregations there, caſt men out of their fellowſhip for moral, ſcandalous evils? I doubt the <hi>godly Diſcipline</hi> which their <hi>Liturgy</hi> confeſ<g ref="char:EOLhyphen"/>ſeth was in the Primitive Church, and ſhould be in theirs, is not found amongſt them: or, if they ſhould, I believe the Noncon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormiſts would be loth to receive any ſuch into their Communion; which the <hi>New-England</hi> Anabaptiſts have done, and have perſiſted therein, from year to year, and that after conviction. And although in their d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luding <hi>Narrative,</hi> they ſeek to palliate this offence, by a falla<g ref="char:EOLhyphen"/>cious Repreſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntation of things; their iniquity is marked before the Lord, <hi>Nitre</hi> and much <hi>Sope</hi> will never waſh them cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an. If then Dr. <hi>Stillingfleet,</hi> or any other ſhall go about to ſtir up Perſecution againſt conſcientious Nonconformiſts in
+<pb facs="tcp:100142:4"/> 
+               <hi>England,</hi> and endeavour to juſtifie it by the practice of Congregational Men in <hi>New-England:</hi> we ſee not that any real advantage hath been given, (only taken) from proceedings here. The Author of the Book called <hi>The Miſchief of Impoſitions,</hi> hath given a fair, and rati<g ref="char:EOLhyphen"/>onal anſwer to the <hi>Doctor,</hi> as to this particular. They ſay, thoſe of the Congregational way in <hi>England, plead for Anabaptiſts liberty as for their own.</hi> That they plead for liberty and indulgence to be ex<g ref="char:EOLhyphen"/>tended towards thoſe that differ from them only in that point of <hi>Paedo-Baptiſme,</hi> I believe: when I was in <hi>England,</hi> I did ſo my ſelf; and if I were their now, I would do ſo again: but that they ſhould plead for liberty unto ſuch practices, as our Anabaptiſts have been guilty of, is not eaſie to believe; or, if they do, it is becauſe ſuch <hi>Narrators</hi> as theſe <hi>Animadverted</hi> upon, have by untrue Relations miſguided them into undue Apprehenſions. Nay, I am fully convinced, that thoſe of their own way, if of ſerious and gracious Spirits, when once they are poſſeſſed with a true Relation of things concerning them, will ſee cauſe to condemn <hi>New-England</hi> leſs, and thoſe their Friends more, than at firſt they were aware of: How did they bear the World in hand, that the Churches here did Excommunicate them for nothing but their O<g ref="char:EOLhyphen"/>pinion, in ſcrupling <hi>Paedobaptiſme!</hi> But that therein they have dealt moſt untruely, and injuriouſly; the ſubſequent Anſwer to their <hi>Nar<g ref="char:EOLhyphen"/>rative</hi> hath made apparent from the Church-Recodrs concerning thoſe matters.</p>
+            <p>Finally, let me intreat the Brethren to believe, that ſome of us would ſhew as much indulgence unto truly tender Conſciences, as themſelves It is not ſo long ſince our own Necks bled under an intolerable yoke of Impoſition upon Conſcience; as that we ſhould forget what it is to be ſo dealt with; or exerciſe that ſeverity towards any, that we have our ſelves complained of, in others. But the Bre<g ref="char:EOLhyphen"/>thren will readily own that ſome men have pretended Conſcience, when pride, &amp; perverſeneſs in the will<g ref="char:punc">▪</g> have been at the bottom: They will alſo confeſs that a meer pretence of Conſcience, is not enough to bear men out in an evil practice. All the difficulty is, in diſcerning the one of theſe from the other. Bleſſed Mr. <hi>Burrou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hs</hi> in his excel'ent <hi>Irenicum,</hi> hath laid down Rules concerning this: And if that which he ſaith, <hi>pag.</hi> 32. be ſound Doctrine (as undoubtedly it is) ſome of our <hi>Anabaptiſts,</hi> have not ſuch characters of a tendor Conſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence up<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n them, as were to be deſired. If men will call un<g ref="char:EOLhyphen"/>juſtifiable <hi>Practic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> by the name of their <hi>Opinion:</hi> and when their evils are born witn<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s againſt make out cries, that they ſuffer for their
+<pb facs="tcp:100142:4"/> Opinion, and for their Conſcience: How is it poſſible, for thoſe to help them, who deſire to keep their own Conſciences pure, and with<g ref="char:EOLhyphen"/>out offence towards God, by being faithful according to that capaci<g ref="char:EOLhyphen"/>ty the Lord hath ſet them in; and giving a due teſtimony againſt thoſe things, which they believe provoke him to jealouſie? And if <hi>A<g ref="char:EOLhyphen"/>nabaptiſts</hi> in this Land, have declared their agreement with thoſe of the like perſwaſion in <hi>England,</hi> as to matters of Faith and Worſhip: I doubt not, but that there are many godly <hi>Antipaedobaptiſts</hi> there, who will never declare their agreement with thoſe here, as to their evil practices, which have been ſo offenſive to Chriſt, and unto his People in <hi>New-England.</hi>
+            </p>
+            <closer>
+               <signed>INCREASE MATHER.</signed> 
+               <dateline>Boſton New-Engl. <date>Nov. 4. 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100142:5"/>
+            <pb n="1" facs="tcp:100142:5"/>
+            <head>
+               <hi>Brief Animadverſions</hi> 
+               <g ref="char:V">Ʋ</g>pon the <hi>New England Anabaptiſts</hi> late Narrative wherein the great Miſtakes by them publiſhed are made Apparent.</head>
+            <div n="1" type="section">
+               <head>SECTION I.</head>
+               <p>THere are two things which every one who deſigns to give the World an Account of the Hiſtory of things done, ought principally to endeavour; <hi>viz.</hi> 1. Truth of ex<g ref="char:EOLhyphen"/>preſſions, with a plain and full recital of all eſſential paſ<g ref="char:EOLhyphen"/>ſages thereto belonging. 2. Candor, in Animadverting chari<g ref="char:EOLhyphen"/>tably upon them, not ſetting our malicious gloſſe upon things deſerving a better interpretation, which rules if the Author of this Narrative had in any degree obſerved, this reply had been needleſs: our preſent buſineſs is not to vindicate the Doctrine and Practiſe of theſe Churches in point of Infant<g ref="char:punc">▪</g> Baptiſme, which if the <hi>Anabaptiſts</hi> judge not to have been already ſufficiently performed, we cannot help that; but it being ſo that theſe Churches in <hi>New-England</hi> are herein charged with perſecution raiſed againſt that ſort of men, and both their and our management of affairs depending between them and us in that reſpect are groſly miſrepreſented, and convincible of manifeſt falſhoods, of which they cannot be (except willingly) igno<g ref="char:EOLhyphen"/>rant, and (ſhould no anſwer be made) the World might judge us truly charged as to matter of fact, and on that account draw ſuch con<g ref="char:EOLhyphen"/>cluſions as beſt ſute their own apprehenſions; yea, our beſt Friends might poſſibly be prejudiced at us: it was thought needful to pre<g ref="char:EOLhyphen"/>vent a ſecond Error by diſcovering the firſt. In ſuch a caſe the wiſe mans counſel ſeems applicable, <hi>Prov.</hi> 26. 5.</p>
+               <pb n="2" facs="tcp:100142:6"/>
+               <p>Concerning the Author of this Narrative, Divine Providence hath removed him from our endeavours of conviction, and the Laws of Humanity (as well as Religion) forbid us now to be over ſevere in our cenſures of him; his everlaſting eſtate is not my buſineſs to en<g ref="char:EOLhyphen"/>quire afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> nor would I at all reflect upon him, if an Anſwer could have been made without it: However it being <hi>John R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſel with the conſent of the Whole,</hi> of whom they tell us he was an Officer, it con<g ref="char:EOLhyphen"/>cerns them therefore to ſtand by it as far as they can whom to render ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oxious, and make known to the World, ſo far as they have made it neceſſary to do it by this ſcript of theirs, is the profeſſed de<g ref="char:EOLhyphen"/>ſigne of this <hi>Reply,</hi> and let the <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</hi> take notice, that my controverſie is with an Hiſtorian in point of Truth and Falſhood, and not with a Divine in matter of Orthodoxy and Error: in which we hope the <hi>Anabaptiſts</hi> will not be angry, if we are as tender of our reputation, as they were in printing of their Pamphlet for the <hi>clearing of their Innocency.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>I ſhall begin with the Title, which promiſeth fair, and looks inno<g ref="char:EOLhyphen"/>cently; but yet (methinks) might have done better to have ſpoken plainly and told us indeed what it intended. It is not fair to invite a man with a ſpecious ſhow, and then cheat him: he calls it <hi>a Brief Narrative,</hi> and we promiſed our ſelves to finde an honeſt toothleſs Relation, but (upon reading it) it ſeems more fit to be called <hi>a Saty<g ref="char:EOLhyphen"/>rical Invective;</hi> for certainly the principal part of it is rather a <hi>Sarcaſme</hi> than a <hi>Narrative;</hi> or what if we call it a <hi>Romance?</hi> which (according to the uſe of the word) is a ſtory built upon a real Sub<g ref="char:EOLhyphen"/>ject, but adorned with Fictions, or a repreſentation of things accord<g ref="char:EOLhyphen"/>ing as we fancy they ſhould be, not regarding what they are indeed: But let it be a <hi>Narrative,</hi> what is the buſineſs it hath to acquaint us with? <hi>Conſiderable Paſſages.</hi> Sometime the worth and excellency of a thing, ſometimes the newneſs and ſtrangeneſs of it render it conſi<g ref="char:EOLhyphen"/>derable: and ſometimes it is very conſiderable whether the thing be ſo or no. But what is it that is ſo conſiberable? why the ſtory of <hi>the firſt gathering, and further progreſs of a Church of Chriſt in Goſpel Or<g ref="char:EOLhyphen"/>der in</hi> Boſton <hi>in</hi> New England: It is certainly conſiderable (and ad<g ref="char:EOLhyphen"/>mirable too) that Chriſt ſhould have any Church in Goſpel Order in the world, ſince Satan and his Inſtruments are ſo buſie to waſt and overturn all Order; partly by ſecret conſpiracies, and open perſecu<g ref="char:EOLhyphen"/>tions
+<pb n="3" facs="tcp:100142:6"/> partly by ſeducing Spirits, and diſorders of Erroneous perſons, ſuch as <hi>Quakers, Anabaptiſts,</hi> &amp;c. but through Gods goodneſs there are more Churches then one in Goſpel order in <hi>Boſton</hi> in <hi>N Engl.</hi> whereas that is rather an <hi>
+                     <g ref="char:V">Ʋ</g>biquitarian</hi> Church. But what Church may this be which is ſo eminently obſervable? Oh! it is a Church <hi>common<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> (though falſly) <hi>called by the name of Anabaptiſts?</hi> and it is well that it is falſly ſo called, elſe we ſhould hardly have believed it a <hi>Church in Goſpel Order,</hi> becauſe we know Baptiſm is one of the foundations of Goſpel Order, <hi>Heb<g ref="char:punc">▪</g>
+                  </hi> 6. 1, 2. But are they falſly ſo called? Alas for our ignorance! we have miſtaken the men all this while: Men render themſelves ſuſpected when they deny their names: but they have but one Baptiſm<g ref="char:punc">▪</g> therefore not to be called <hi>Anabaptiſts;</hi> but to deal fairly by <hi>Anabaptiſts</hi> we mean no other but thoſe men that deny the Baptiſm received in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfancy to be any Baptiſm, and ſeek another pretended one of their own, and thereby undermine the Baptiſme that hath been practiſed and owned by all the Churches of Chriſt in the World ever ſince Chriſt, excepting a few of their own ſect<g ref="char:punc">▪</g> and if the word be not ſo proper, yet being generally uſed, and well un<g ref="char:EOLhyphen"/>derſtood, it pleads cuſtome, and may do better then a new one: their own term (<hi>Baptiſts</hi>) is fallacious, inſinuating that there are none for Baptiſme but themſelves: next he tells us the mov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng cauſe of that Narrative, which is very honeſt and good; It is <hi>for the clearing of their innocency</hi> and that every good man may lawfully do, and ſome<g ref="char:EOLhyphen"/>times ought. The firſt Fathers in the Church wrote their Apologies. But it were better to be innocent without a plea, then to do miſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ief, and then wipe their mouth an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſay<g ref="char:punc">▪</g> 
+                  <hi>I have done no wickedn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs.</hi> It was high time to purge themſelves with a Narrative, when there were ſo many <hi>ſcandalous things laid to their charge</hi> but, if either the things be not laid to their charge, that part of their defence will be va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and ſu<g ref="char:EOLhyphen"/>perfluous, or the things laid to their charge be both <hi>true an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſcan al<g ref="char:EOLhyphen"/>ous,</hi> they will never be able to render them other then ſo by writing Narratives.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>In the next place<g ref="char:punc">▪</g> we have an Epiſtle to the Reader, to uſher in the Narrative<g ref="char:punc">▪</g> 
+                  <hi>Dignum patelâ op rculum.</hi> If ſtrangers will needleſly be medling, they muſt thank themſelves if they get a blow. They tell us, they <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eave the enſuing Apology to plea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o it ſelf</hi> (But it had been friendly to have ſpoke a word for it, it being able to ſpeak ſo
+<pb n="4" facs="tcp:100142:7"/> little for it ſelf) yet they are willing to give in their teſtimony how that <hi>one and the ſame ſpirit in Chriſtians makes them in paſſions and af<g ref="char:EOLhyphen"/>fections preſent, though locally diſtant, and extends a fellow-feeling with the members of the ſame body</hi>) and if that were proper to ſincere Chri<g ref="char:EOLhyphen"/>ſtians, or characteriſtical of them, they had ſaid ſomething: But ex<g ref="char:EOLhyphen"/>perience lets us know, that a ſpirit of Error is as diffuſive, as that of ſincerity, and a common cauſe (though bad) can tye men up in a combination and conſpiracie: hence they do well to ſubjoyn that plea from their <hi>perfect agreement in matters of Faith and worſhip</hi>] for if ſo, then ſelf intereſt alſo obligeth them to take part with their Brethren: and they do it to purpoſe, having ſqueezed the quinteſſence of the Book into their Epiſtle. The intendment of it is to accuſe this Government and theſe Churches of Perſecuting the Saints and Servants of Chriſt: and they begin with the Churches, where (wiſe<g ref="char:EOLhyphen"/>ly taking the Queſtion for granted, which might have put them to ſome difficulty to have proved) they endeavour to aggravate our guilt by divers Arguments.</p>
+               <p>1. Our practiſes are contrary to <hi>the Principles and practiſes of our Brethren of the Congregational way in</hi> England, <hi>which do equally plead for the liberties of the</hi> Anabaptiſts <hi>as their own</hi>] But let them not be angry if we are hard to believe that thoſe of the Congregational way i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>England</hi> do judge ſuch <hi>Anabaptiſts</hi> as theſe in <hi>New-Engl.</hi> to be as Orthodox as themſelves, and deſerve like countenance and favour; or that Magiſtrates and Churches are no wayes bound to labour (ac<g ref="char:EOLhyphen"/>cording to the power given them) to ſuppreſs Errors ſcandalouſly perſiſted in, or to manifeſt a practical diſlike of them: is not this to ſcandalize the congregational Churches there, that they may better accuſe them here?</p>
+               <p>2. <hi>Our practiſes are contrary to the deſign of our firſt Planters, who left all for liberty of Conſcience, and we are the Children of thoſe that felt the laſh of Impoſi<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>, and yet will ſhew to others the like ſeverity</hi>] I per<g ref="char:EOLhyphen"/>ceive they are miſtaken in the deſign of our firſt Planters, whoſe buſi<g ref="char:EOLhyphen"/>neſs was not Tolerations <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſed Enemies of it, and could leave the World profeſſing they <hi>died no Libertines.</hi> Their buſineſs was to ſettle, and (as much as in them lay) ſecure Religion to Po<g ref="char:EOLhyphen"/>ſterity, according to that way which they believed was of God. If (therefore) this People parted with ſo much, and were at ſuch char<g ref="char:EOLhyphen"/>ges for their liberties why then do the Anabaptiſts trouble them, who had neither ſcot nor lot in that charge? let them go and do the like, and we ſhall not ſo moleſt their Churches, as they have ſhamefully done by ours.</p>
+               <pb n="5" facs="tcp:100142:7"/>
+               <p>3. <hi>It is againſt their Brethren</hi>] the ſincerity of the expreſſion is much to be ſuſpected, ſince we know that they do deny us to be, ſo much as viſible Chriſtians, while they declare our Baptiſme, not only to be a mal Adminiſtration, but a meer nullity. But granting it, we never could finde that Diſcipline rightly adminiſtred, was againſt Chriſtian charity; and yet the ſubject of it is Brethren; yea the neg<g ref="char:EOLhyphen"/>lect of that duty (in caſe) would argue want of love, if not hatred, Levit. 19. 17.</p>
+               <p>4. But they are Brethren that <hi>avowedly profeſs and appeal to the ſame rule</hi>] But what if the Churches, in their bearing witneſs againſt them, do appeal to the ſame rule? and think they ſhould violate it by neglecting this duty, how ſhall we do then? why do they cenſure our Church cenſures againſt them that have ſometimes been our Members? we do avowedly appeal to the ſame rule. Is it ſufficient to ſatisfie men in one anothers proceedings (though contrary) be<g ref="char:EOLhyphen"/>cauſe they appeal to the ſame rule; this muſt certainly be ſome <hi>Leſ<g ref="char:EOLhyphen"/>bian Rule,</hi> that may ſquare to all mens Opinions and fancies.</p>
+               <p>5. <hi>That the preſent moleſtation given them is meerly for a ſuppoſed Er<g ref="char:EOLhyphen"/>ror relating to the Subject of Baptiſme</hi>] Here learn, how dangerous a thing it is, to take a thing for truth, upon the credit of prejudiced perſons. How untrue this is, there will be afterward occaſion in di<g ref="char:EOLhyphen"/>vers examples to make appear: only we muſt give them leave to call it a <hi>ſuppoſed</hi> error; but with whom? with them it is a believed truth, and of ſuch weight, that it were better ſet a fire on the World than not ſtand up in it's defence: and (I can aſſure them) with us it is more than a ſuppoſed error: and yet that that hath been the only ground of their being moleſted, ſhall alſo appear to be more than a ſuppoſed falſhood.</p>
+               <p>6. It is a matter which hath been, and (if we believe them) is ſtill <hi>ſub judice: controverted, and that between learned and judicious, holy and good men</hi>] why then ſhould they be ſo ſtiffe for it, or we a<g ref="char:EOLhyphen"/>gainſt it? it is very weak for men to be ſo rigid on all hands about a nice controverſie, and indeterminable queſtion, which learned and good men have not theſe 1600 years known how to determine. But (upon ſearch) I finde it hath been both profeſſed and defended in all ages by the Churches of Chriſt: though this truth (as many o<g ref="char:EOLhyphen"/>thers) hath not eſcaped the oppoſition of men left by God to a ſpi<g ref="char:EOLhyphen"/>rit of error: but it hath fared as well, as almoſt any great Goſpel Truth; God having ever raiſed up worthy Patrons for the defence of it. If fundamental Truths muſt be the more charily or dubiouſly
+<pb n="6" facs="tcp:100142:8"/> aſſerted becauſe men enfatuated with Error and holding perverſe, principles, yet pretending holineſs (and what Heretick ever did o<g ref="char:EOLhyphen"/>ther) impugne it, it would be a plauſible way to ſubvert all.</p>
+               <p>With theſe Arguments they fortifie their concluſion, <hi>viz.</hi> that <hi>for one Proteſtant Congregation (on ſuch occaſions) to perſecute another (where there is no pretenſe to inſallibility in deciding controverſies) ſeems much more unreaſonable then all the cruelties of the Romiſh Church<g ref="char:punc">▪</g>
+                  </hi> &amp;c.] Before I ſaw that Narrative, one told me it was a moderate piece, and ſhewed a Chriſtian ſpirit. If they intend us not in theſe words they are vain m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n; if they do, they render themſelves the Perſecutors, purſuing us with bitter words who have this to ſay that in all our dealings with them, we have (allowing humane infirmities) walked by the golden Rule they urge upon us (if rightly underſtood) doing as we would be done by.</p>
+               <p>Now they have a word of counſel to the Governours in <hi>New-En<g ref="char:EOLhyphen"/>gland,</hi> to <hi>conſider their Brethren of the Congregational way in</hi> England <hi>leſt they juſtifie thoſe that trouble them there<g ref="char:punc">▪</g>
+                  </hi>] They owe thanks to any that will fairly put them in mind of their duty, only in this counſel there lurks a dangerous evil, which they (in retaliation of cour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſies) are to be admoniſhed of, <hi>viz.</hi> they forget that the cauſe evermore al<g ref="char:EOLhyphen"/>ters the quality of the action: nor was it ever thought by any (of a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound minde) that juſtice ſhould not be adminiſtred upon offenders, leſt others (by miſapplication) ſhould thence take occaſion to wrong the innocent: and the Honourable Governours in <hi>New-England</hi> have learned, and are perſwaded that if they ſhould ſin, by omitting duty for mans ſake<g ref="char:punc">▪</g> they ſhould both diſhonour God and grieve their Bre<g ref="char:EOLhyphen"/>thren To ſcare us the more with this, they tell us how Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet</hi> improved it to the ſame purpoſe againſt us.] all I ſhall ſay to this is we cannot confeſs guilty, for the cenſure of thoſe, who neither knowing what we do, nor weighing the difference of caſes (which they would make parallels) raſhly conclude againſt us: we humbly con<g ref="char:EOLhyphen"/>ceive men that are not prejudiced will eaſily diſcern that ſuppreſſing with all gentleneſs and tenderneſs, a dangerous error and of bad ten<g ref="char:EOLhyphen"/>dency (ſuch as <hi>Anabaptiſm</hi> eſpecially ſo circumſtanced as in <hi>New-England</hi> it hath been) and the enforcing of Ceremonies in Religion, which are neither directly, nor by any good conſequence required, in or by the word of God do differ <hi>to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o coelo.</hi>
+               </p>
+               <p>For the concluding Prayer, we can heartily put it up to God, and might have joyned with them in it too, had they not added it as a cloak to the ſlander of their Epiſtle.</p>
+            </div>
+            <div n="4" type="section">
+               <pb n="7" facs="tcp:100142:8"/>
+               <head>SECT. IV.</head>
+               <p>Now follows the Narrative it ſelf, in which the firſt thing that ac<g ref="char:EOLhyphen"/>coſts us is (indeed) a brief account of their congregating, or that act of theirs in gathering a Church; where we have the moving cauſe, the manner, and the materials of it.</p>
+               <p>1. The moving cauſe of it is brief and pithy: <hi>It pleaſed God to move their hearts</hi>] and if this be indeed ſo, then thoſe that oppoſed them in it, and endeavoured to ſuppreſs them, will be found fighters againſt God, and to act in vain, for the Will of God ſhall be accom<g ref="char:EOLhyphen"/>pliſhed, and no weapon formed againſt it ſhall proſper: and this Ar<g ref="char:EOLhyphen"/>gument we ſhall finde them making uſe of (<hi>page</hi> 2.) But who knows not that all Hereticks pretend to the Spirit and Direction of God, though it's certain that in ſo doing they take the Name of God in vain: and it's little leſs then Blaſphemy to bring God in, to patronize their ſinful Actions: For,</p>
+               <p>1. God doth not graciouſly move the hearts of any to irregular and unlawful Actions; and though men are very prone to entitle Him to it, yet He utterly diſclaims it, <hi>Jam.</hi> 1. 13, 14.</p>
+               <p>2. And it is certain that when men grow wanton and deſpiſe the Ordinances; God (many times) judicially gives them ſtrong deluſi<g ref="char:EOLhyphen"/>on to believe a lye, 2 <hi>Theſſ.</hi> 2. 10, 11. and that is none of the leaſt, to misjudge a ſeducing ſpirit to be the ſpirit of God.</p>
+               <p>3. To follow an erring Conſcience, which verily believes his error to be the truth, is not to follow the direction of the Spirit of God. If what God forbids, Conſcience perſwades, this is not of Gods appro<g ref="char:EOLhyphen"/>bation, for ſo he ſhould be againſt himſelf. It is a ſnare and a judge<g ref="char:EOLhyphen"/>ment to be under ſuch a Conſcience; ſo that they muſt pardon us if we ſuſpect the moving cauſe.</p>
+               <p>2. The perſons thus moved are deſcribed from their former expe<g ref="char:EOLhyphen"/>rience of his teaching: <hi>ſuch whom by his Word and Spirit he had in<g ref="char:EOLhyphen"/>ſtructed and taught in the way,</hi> &amp;e.] Thus one error begets another: what have we to do with the <hi>Anabaptiſts</hi> Kúria dóxa? do none but the Orthodox bring this plea? we expected he ſhould have given us ſome Rules by which we might have known it. It is a piece of arro<g ref="char:EOLhyphen"/>gancy for men to beg the principle, or forcibly impoſe upon our be<g ref="char:EOLhyphen"/>lief that which is the very Diſpute and Controverſie between us, <hi>i. e.</hi> whither it be an error or no: and they tell us God taught them, therefore it is no error, true, but if we reply, it is an error, there<g ref="char:EOLhyphen"/>fore God taught them not, where are we now? are <hi>Anabaptiſts</hi> only
+<pb n="8" facs="tcp:100142:9"/> Maſters of Rules and Canons? may not we as eaſily deny, as they af<g ref="char:EOLhyphen"/>firm without proof?</p>
+               <p>3. <hi>They entred into ſolemn Covenant to walk in Communion in the practice of all the holy appointments of Chriſt,</hi> &amp;c. <hi>and ſo became a Church of Chriſt</hi>] This alone will not make them a Church of Chriſt, for if ſo, then every combination of <hi>Enthuſiaſts, Ranters, Socinians,</hi> &amp;c. may become Churches of Chriſt, for they do pretend, and pro<g ref="char:EOLhyphen"/>miſe each other in words as much as theſe, or any other Churches in the World can do: but there are <hi>Synagogues of Satan</hi> too, in the World. If they who are fit to be caſt out of Churches, (and are ſo actually) combine and covenant, doth that make them a Church?</p>
+               <p>4. They are men of holy and exact walking, <hi>viz. In the practice and performance of the holy Ordinances of Chriſt according to Divine Inſtitution</hi>) If men were not proud and confident, they would never impoſe their aſſertions upon us with an <hi>ipſe dixit:</hi> grant but an <hi>Ana<g ref="char:EOLhyphen"/>baptiſt,</hi> that his Opinion is true, and he can eaſily prove that ours is falſe; but if you queſtion that, he hath no more to ſay to you. It is certain they have exploded Infant Baptiſme, which hath been acknow<g ref="char:EOLhyphen"/>ledged by the body of the Church Chriſtian in all ages: not only for an Inſtitution, but a principal Inſtitution of Chriſt; but if theſe deny it, then we are miſtaken. How like holy men they have walked will ap<g ref="char:EOLhyphen"/>pear afterwards.</p>
+               <p>5. He gives us the names of the men who laid this precious Foun<g ref="char:EOLhyphen"/>dation: and if they had been ſuch men as had done this to begin right Church Order in <hi>New-England,</hi> they ought not to be forgotten but had in honourable remembrance; but if they were (and I am a<g ref="char:EOLhyphen"/>fraid the great day will diſcover that they were) the Heads and Ring<g ref="char:EOLhyphen"/>leaders of a Schiſme, and culpable cauſe of great troubles in the Churches of Chriſt in <hi>New-England,</hi> they had better been forgotten.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>And now we have a Church gathered of ſuch excellent materials, and in ſo regular a way; what reception is it they finde in <hi>New-Eng<g ref="char:EOLhyphen"/>land?</hi> one would think that ſuch a Church, and in ſuch a place, ſhould have been highly eſteemed, ſtrenuouſly defended by the civil Magiſtrate, and imitated by all the Churches, who came into the Wilderneſs on very purpoſe to ſerve God in his own way, but un<g ref="char:EOLhyphen"/>happily miſſed of it, till the <hi>Anabaptiſts found it out,</hi> but lo! they meet the quite contrary; they <hi>are aſſailed with troubles and afflictions:</hi>
+                  <pb n="9" facs="tcp:100142:9"/> and from whom? certainly a vile Generation; but it muſt be born, they are not the firſt ſufferers for the truth (nor for falſhood neither) <hi>it hath alwayes befallen thoſe whom God hath ſingled out from others to bear witneſs to the truth</hi>] true, the World e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er perſecuted the Church: But have not the People of God alſo had their zeal to maintain the wayes of God, and counted it their duty to uſe means to ſuppreſs ſuch as upon what pretence ſoever, ſought to pervert them? and if God have proved his People with <hi>Anabaptiſts</hi> (as he is wont to do his Church with <hi>Seducers</hi>) who ſhall blame them that have ſhown their fidelity to God, in endeavouring to ſtop their progreſs? and thus the juſt ſufferings of theſe men will be a poor Argument to prove them the ſervants of Chriſt, though men may be ſufferers, yet they are not preſently Martyrs: <hi>Cauſa, non paſſio, facit Martyrem.</hi>
+               </p>
+               <p>But theſe precious Saints, (acted by the right Spirit of the old Confeſſors) <hi>had counted the coſt, and therefore chearfully paſt theſe pikes and are now gone to reſt</hi>] and it is pity to diſturb them only it might not be amiſs to remember, that the vileſt Hereticks and groſſeſt Blaſ<g ref="char:EOLhyphen"/>phemers have reſolutely and cheerfully (at leaſt ſullenly and boaſt<g ref="char:EOLhyphen"/>ingly) ſuffered, as well as the people of God; (Hiſtories are preg<g ref="char:EOLhyphen"/>nant with e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amples) and therefore hitherto they have ſaid nothing to convince any one of their Orthodoxy and ſincerity: they may be right, they may be out of the way, for all this.</p>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. VI.</head>
+               <p>We have now done with the Narrative (handſomely contrived in one page) the other fourteen are Apologetical which they were put upon for three Reaſons.</p>
+               <p>1. To Emblazon the Names of their dead Founders, and prevent the Worlds being miſtaken in them: and truly, firſt Founders deſerve a Record, and they ſhould be unworthy Succeſſors if they did not Canonize them: though (as things are circumſtanced) ſome wiſe men think they had done them a kindneſs, if they had ſaid nothing: and to me, I am ſure, for then I had been prevented this undeſired task of publiſhing the follies of men after they are dead. The childe doth his Father the beſt kindneſs to ſay nothing of him, when by ſpeaking he doth but revive his Infamy. But I take it for a juſt judgement of God on that generation of men that by a <hi>fallacious Narrative,</hi> they ſhould enforce us to make the World acquainted with the ſcandalous converſation of theſe beginners, which had otherwiſe ſlept in the pri<g ref="char:EOLhyphen"/>vate
+<pb n="10" facs="tcp:100142:10"/> records of thoſe Churches wherein they were acted.</p>
+               <p>2. <hi>The very grievous Scandals caſt upon theſe Beginners</hi>] Scandal<g ref="char:EOLhyphen"/>ous men (if incorrigible) deſerve to have ſcandals caſt upon them, and if we ſhall prove theſe ſuch, they muſt (for ought I know) bear the Reproach of it and thank themſelves.</p>
+               <p>But yet there are two things wherein they are to be blamed that lay ſcandal to them; though juſt, yet it is unjuſtly done, <hi>viz.</hi>
+               </p>
+               <p>1. The frame of ſpirit they do it with, they <hi>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e rugged Spirits</hi>) truly this becomes not men who profeſs a Spirit of Meekneſs: and yet ſometimes the Goſpel calls Chriſtians to wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtand Seducers to the face; to characterize ſome men in their proper colours, and con<g ref="char:EOLhyphen"/>tend earneſtly with them for the Truth: yea, experience tells us that ſuch a rough thing as a <hi>New-England Anabaptiſt,</hi> is not to be handled over tenderly: the ſpirit which they have at all times diſcovered un<g ref="char:EOLhyphen"/>der the greateſt diſadvantages (and God grant that they may never have more advantage over us) eaſily tells us what they would have been, if circumſtanced as thoſe whom they accuſe.</p>
+               <p>2. A wicked end: and a good action may be ſpoiled by a bad de<g ref="char:EOLhyphen"/>ſign at bottom: <hi>We have charged them on purpoſe to make them odious, and make the World believe them a people not fit to live</hi>) men wonder<g ref="char:EOLhyphen"/>fully ſagacious, and extreamly charitable! I dare ſay none of ours ever told them this was thier end; why might they not have inter<g ref="char:EOLhyphen"/>preted it zeal? <hi>Paul</hi> ſo interpreted his perſecuting Country-men. But, ſuppoſe it be made appear that we have not endeavoured to rea<g ref="char:EOLhyphen"/>der their perſons odious but only their perverſe Doctrine, and that we have uſed all meekneſ, patience, gentleneſs towards men in that ca<g ref="char:EOLhyphen"/>pacity we took them to be in? for any ſuch paſſage of any of ours as judging them not fit to live, I know not of it, nor (I believe) do they, nor do we patronize any ſuch expreſſion though (ſince their Book hath ſo many in it) I know not why this may not go for one of their miſtakes: and now they <hi>appeal to God</hi>) we accept it readily.</p>
+            </div>
+            <div n="7" type="section">
+               <head>SECT. VII.</head>
+               <p>Their great Sufferings are of two ſorts.</p>
+               <p>1. In Eſtate and Liberties of which we muſt not expect a parti<g ref="char:EOLhyphen"/>cular account, &amp; are charitably to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk it is becauſe they are tender of our reputation: but errorsly in generals, a particular account might have been more ſatisfying: Theſe things look directly upon our Ma<g ref="char:EOLhyphen"/>giſtracy, in vindication of them a word will ſuffice. Two things take
+<pb n="11" facs="tcp:100142:10"/> up this diſcourſe; The perſecution, and the ſucceſs.</p>
+               <p>1. The perſecution is compendiouſly repreſented. <hi>Some of us were oftentimes brought before Councils,</hi> &amp;c.] (I ſuppoſe they allude <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>Mat.</hi> 10. 17.) To which let this be taken as a Reply, <hi>viz.</hi> that as the Honoured Magiſtrates here are Chriſtian, ſo have they judged it their duty to maintain the ways of Chriſt, and ſtrengthen them by civil Laws, which hath not only been the practice of Reformers of old, but the conſtant judgement of the Church of Chriſt ever ſince the Apoſtles. If evil minded men will take this advantage to op<g ref="char:EOLhyphen"/>preſs the truth, it is no more then may be done in all other caſes: &amp; as it is thought no good plea to keep the Scriptures from the la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, leſt they ſhould learn to be Hereticks; ſo neither to deny the Magiſtrate his due power on ſuppoſition that he may abuſe it. On this Princi<g ref="char:EOLhyphen"/>ple our worthy Rulers have made Laws againſt many Sects and In<g ref="char:EOLhyphen"/>truders, and among the reſt the <hi>Anabaptiſts.</hi> That in quelling the <hi>Anabaptiſts</hi> they do not oppoſe the truth, but ſuppreſs Error they are fully perſwaded: and although they never pretended to a Lord<g ref="char:EOLhyphen"/>ſhip over mens Conſciences, yet they account the outward man is ſubject to them: and if we muſt tarry till all men are agreed about what is truth<g ref="char:punc">▪</g> before we oppoſe Error, we ſhall ſtay till there is no need of it. For the progreſs of our Magiſtracy in the execution of theſe Laws, they have been ſo far from a violent, eager, or willing taking advantage againſt theſe men, that (notwithſtanding their opprob<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ous ſpeeches when they have been before them, their ſcornful carria<g ref="char:EOLhyphen"/>ges, and purpoſed indeavours to irritate them by inſolent challenges) they have alwayes proceeded ſlowly, tenderly, far on this ſide the Law, as thoſe who ſought not to ruine either their Names, Liberties, or Eſtates. How often when fines have been laid upon them, have they ſtopt the Execution? if any have been impriſoned, it hath been but when dared to it: and though once a Sentence of Baniſhment did paſs upon two of their Ring-leaders (heady violent men) yet then they neglected, and ſcorned to take notice of it (reſolving to run utmoſt hazards) neither was this improved as any advantage a<g ref="char:EOLhyphen"/>gainſt them. Nor is it to be wondred that our Governours have been oppoſite in particular to theſe men, ſince, if they could get head a<g ref="char:EOLhyphen"/>mong us, they would certainly undermine the Churches <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Order, deſtroy piety, and introduce prophaneſs.</p>
+               <p>2. For the ſucceſs of theſe endeavours: <hi>God is pleaſed ſtill to up<g ref="char:EOLhyphen"/>hold them, and they are by theſe means not weakened, but ſtrengthened and increaſed</hi>) Methinks I hear the Jews crying, <hi>we are delivered to do all
+<pb n="12" facs="tcp:100142:11"/> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe abominations.</hi> Let them but remember that many things are done by Gods permiſſive providence, when the doers have not his approbation: nor is it an unfailing ground of ſincerity that they have withſtood ſuch trials and are increaſed: we know (do what we can to reſtrain them) <hi>Evil men and Seducers ſhall wax worſe and worſe, and many ſhall follow their p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nicious wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es.</hi> Nor is it to be wondred at, that perſons diſcontent with the yoke of Chriſt in the Churches or taking offence at particular Adminiſtrations, which might touch their own intereſt, have ſo readily followed the faction of the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts,</hi> of which ſort of men, the moſt of their ſociety and Founders here, have conſiſted.</p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII.</head>
+               <p>2. Their great ſufferings in their Name; and (it ſhould ſeem) there are many terms of Reproach caſt upon them: pardon them then if they are very tender of their Reputation. Only they ſhould have gone orderly to work, firſt to have got a good name, and then to have kept it by walking worthy of it. Here we have a file of <hi>ſcan<g ref="char:EOLhyphen"/>dalous things laid to their charge</hi>) they might have done well to have told us where, and by whom, that we might have compared them<g ref="char:punc">▪</g> but (I ſee) we muſt do what we can and conſider what is charged, and how juſtly, and whither they are wiped away in their deſenſe. Theſe are no ſewer then eight: let us examine them.</p>
+               <p>1. <hi>They are a Schiſmatical company who have rent themſelves from the Churches of Chriſt, and received into their ſociety ſuch as have diſ<g ref="char:EOLhyphen"/>orderly left the Churches.</hi>)</p>
+               <p>
+                  <hi>Anſ.</hi> This charge (in termes) was never made againſt them by us, and ſo part of their vindication is ſuperfluous; for we never ſaid all of them rent from theſe Churches: ſome were ſtrangers to us till their turbulency made them too well known; and others were never joyn<g ref="char:EOLhyphen"/>ed to other Churches, but had l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved without Communion. But that they are a ſociety of ſchiſmaticks, (if Schiſme be an unjuſt ren<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing from a Church of Chriſt) we aſſert. Three things they (in words) grant. 1. That our Churches are Churches of Chriſt (<hi>page</hi> 14.) 2. That fome of them were once Members of them (<hi>page</hi> 4.) 3. That ſome of theirs did depart from theſe Churches and joyn in this new combination (<hi>page</hi> 5.) now to prove them hence, a company of Schiſmaticks: Obſerve,</p>
+               <p>1. That whoſoever combine with, and encourage Schiſmaticks, have fellowſhip with them in their ſin.</p>
+               <pb n="13" facs="tcp:100142:11"/>
+               <p>2. That <hi>Thomas Gold,</hi> and <hi>Thomas Osborn</hi> (the perſons in diſpute) were Schiſmaticks, or did unjuſtly rend from the Church whereof they were before Members will appear by a true Relation of matters of fact (for this ſtory of the Narrative, and Truth are Strangers) whereof there is ſufficient Teſtimony to be found in the Re<g ref="char:EOLhyphen"/>cords of the Church at <hi>Charlſtown</hi> (whereof they were Members) and there are many ſaithful witneſſes yet alive, who were preſent at theſe tranſactions and can ſay, if theſe things be not ſo; which ought to outweigh the ſtory of a prejudiced perſon, who hath all by hear<g ref="char:EOLhyphen"/>ſay, whoſe very buſineſs is to palliate and lick over matter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſhape them to his own turn: Here,</p>
+               <p>1, For <hi>Goodman Gold:</hi> Let the Reader conſider theſe things: and let the <hi>Anabaptiſts</hi> diſpro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them, if they can.</p>
+               <p>1. That though he was firſt called to an account about withhold<g ref="char:EOLhyphen"/>ing his childe from Baptiſme, yet that was not the reaſon of his being admoniſhed (as the Pamphlet aſſerts) nor becauſe he could not be convinced of Error; nor yet did the Church proceed to Admonition, till ſuch time as he (not only ſpake contemptuouſly and irreligiouſly of the emptineſs &amp; nullity of that Ordinance, but alſo) uſed unbecoming geſtures in the time of Adminiſtration, of which (being asked the rea<g ref="char:EOLhyphen"/>ſon) he (before the Congregation) acknowledged they <hi>were</hi> to caſt di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſpect upon it: nor then neither till after much patience Now let <hi>Anabaptiſts</hi> themſelves judge, whither there be not a vaſt diffe<g ref="char:EOLhyphen"/>rence, between doubting about an Ordinance, and profeſſedly viliſy<g ref="char:EOLhyphen"/>ing of it by unhandſome words and carriages; and whither they will bear with any Member of theirs, that will ſo contemn any of thoſe things which are to them ſacred, and acknowledged as Chriſts Inſti<g ref="char:EOLhyphen"/>tutions.</p>
+               <p>2, That at his firſt Admonition he was not ſententially ſuſpended, but only deſired, for the preventing of the offence of ſome, to abſtain from coming to the other Sacrament.</p>
+               <p>3. That upon this, <hi>Thomas Gold</hi> took up a trade of abſenting him<g ref="char:EOLhyphen"/>ſelf from the Meetings of the Church to worſhip God on the Sab<g ref="char:EOLhyphen"/>bath, which made a new offence.</p>
+               <p>4. That the Church in much tenderneſs waited upon him, and (af<g ref="char:EOLhyphen"/>ter many provocations) proceeded not to Excommunication, but tried with Admonition upon Admonition, and that by the ſpace of ſeven or eight years: nor was he Excommunicated, till (having left his own) he joyned to another Society, without the churches leave, or once asking it: and now alſo being twice ſent for by the Churc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+                  <pb n="14" facs="tcp:100142:12"/> he diſclaimed their authority over him.</p>
+               <p>5. That <hi>Thom is Gold</hi> did not leave the Church at <hi>Charlſtown</hi> on the account of the <hi>Anabaptiſts</hi> new Church (as is pretended) but had many years before renounced his ſubmiſſion to that Church.</p>
+               <p>6. That he did (while under Admonition) neglect publick wor<g ref="char:EOLhyphen"/>ſhip, and gather a private meeting on the Sabbath to his houſe.</p>
+               <p>7. That he did (contrary to the judgement of Anabaptiſts them<g ref="char:EOLhyphen"/>ſelves) wickedly ſlight the Admonition of the Church, declaring that they had by it diſcharged him of all relation to them.</p>
+               <p>2. For <hi>Thomas Osb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> the Churches proceedings with him were with the like patience as to <hi>Thomas Gold:</hi> only it is to be obſerved, that his firſt offence (which this diſſembling Pamphlet, finding it diſ<g ref="char:EOLhyphen"/>advantagious, wilfully paſſeth over) was this: whereas it is one thing which Church-members engage to upon Admiſſion, to walk with the Church in conſtant attendance upon publick worſhip, he (without notifying any offence) did withdraw and ſeparate, fre<g ref="char:EOLhyphen"/>quenting thoſe Schiſmatick Meetings at <hi>Golds</hi> on the Sabbath: this was the offence (where was the Narrators Conſcience mean while?) nor did he (when firſt dealt with) pretend any diſlike of Infant Ba<g ref="char:EOLhyphen"/>ptiſme, but that the Church gave no liberty to private Brethren to Propheſie<g ref="char:punc">▪</g> that they limited the Miniſtry to learned men, and that he did not find his own ſpirit free to come: though afterwards he ſpake both of that, and of their ſeverity to the <hi>Quakers,</hi> though that Church medled not with them, but only to preach againſt their Er<g ref="char:EOLhyphen"/>rors. In this practice he contumaciouſly perſiſted many years, deny<g ref="char:EOLhyphen"/>ing himſelf to be ſubject to that Church<g ref="char:punc">▪</g> or bound to aſſemble with them (though he had ſolemnly given himſelf up to them in Covenant) ſlighting many Admonitions; and afterwards (with <hi>Thomas Gold</hi>) went off to, and became a worthy Pillar of an <hi>Anabaptiſt</hi> Church. And whereas he inſiſts ſo upon a bitter ſpirit in the Church againſt diſſenters let ſeven years patience, with ſerious endeavours (in all tenderneſs) to reclaim them, ſpeak whither it be not an audacious Slander. And now (Reader) judge, are theſe a Church of Schiſ<g ref="char:EOLhyphen"/>maticks or no?</p>
+            </div>
+            <div n="9" type="section">
+               <head>SECT. IX.</head>
+               <p>2. That we are Scandalous in three reſpects<g ref="char:punc">▪</g> 1. <hi>The Foundation was laid with Excommunicate perſons. 2. We called ſuch to Admini<g ref="char:EOLhyphen"/>ſter holy things, who were juſtly for ſcandal caſt out of other Churches. 3. For receiving ſuch into our Society.
+<pb n="15" facs="tcp:100142:12"/> Anſ.</hi> This is indeed the charge, from the juſt imputation whereof all their tergiverſations<g ref="char:punc">▪</g> excuſes, ſuppreſſions of the truth, and ſug<g ref="char:EOLhyphen"/>geſtions of ſalſhood, ſhall never acquit them. I find not that he de<g ref="char:EOLhyphen"/>nies the firſt propoſition, <hi>viz.</hi> that thoſe who do ſuch things (adding the word <hi>juſtly</hi> to the firſt part of the charge) are to be reputed ſcandalous. That they have ſo done remains to be proved.</p>
+               <p>1 Their Foundation was laid with perſons excommunicated and that for ſcandal: for this it may be conſidered.</p>
+               <p>1. <hi>Thomas Gold</hi> was not admoniſhed for his Opinion (nor doth it appear that ever he ſhould, if he had carried humbly) but for op<g ref="char:EOLhyphen"/>probrious words and carriages againſt an Ordinance which he him<g ref="char:EOLhyphen"/>ſelf had before profeſſedly reverenced and highly eſteem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and which he knew that Church he walked with, had ſtill in the li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e eſteem. And <hi>Thomas Osborne,</hi> by relinquiſhing publick Worſhip d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rectly violated his Covenant, not ſo much as pretending (at firſt) any doubt about Inſant Baptiſme.</p>
+               <p>2. They both of them deſpiſed the Church, continued to abſent themſelves, laid falſe charges againſt them, ſeparated in a priva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e meeting, went off to the <hi>Anabaptiſts</hi> without asking leave, and ſo be<g ref="char:EOLhyphen"/>came (ſuppoſed) Members of one before they were regularly diſ<g ref="char:EOLhyphen"/>charged of their obligation to another Church: all which things are againſt the <hi>Anabaptiſts</hi> own profeſſed Rules if they will ſtand to their confeſſion. Whereas he ſaith, <hi>their not hearing the Church was nothing elſe but their not coming when the Church ſent for them</hi>] it is a fooliſh pretence: their not hearing the Church was their appearing and proving themſelves impenitent<g ref="char:punc">▪</g> and that after many Treaties uſed with them many ſolemn Admonitions laid upon them. convictions ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fficiently offered<g ref="char:punc">▪</g> of ſins againſt the light of their Conſciences, and which (it's certain) they would have acknowledged, had it not been for fear of being reconciled to the Church, whoſe Excommunication they feared not, but impudently deſired<g ref="char:punc">▪</g> The truth is, they were weary of their Church Relation<g ref="char:punc">▪</g> and reſolved to get rid of it, and not knowing any regular way to obtain it, they choſe to ſin rather then ſuffer; and undergo a juſt Excommunication, that they might be by themſelves; preſuming that they could blind the World with a vain pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe that they were ejected for no other reaſon but but be<g ref="char:EOLhyphen"/>cauſe they queſtioned the right of Infant Baptiſme. Hence <hi>Thomas Gold</hi> did particularly expreſs before the Church his deſire to be ex<g ref="char:EOLhyphen"/>communicated, which yet they proceeded not to (till by a firſt and ſecond refuſal to appear at the Churches citing of them) they pro<g ref="char:EOLhyphen"/>ved
+<pb n="16" facs="tcp:100142:13"/> themſelves incorrigible: Beſides, it is to be obſerved that theſe men (having privately exerciſed their gifts in Meetings with ap<g ref="char:EOLhyphen"/>plauſe) began to think themſelves wronged that their light was put under a buſhel; and finding no remedy in our Churches, threw on a cloak of <hi>Anabaptiſme,</hi> and ſo gained the thing they aimed at, in a diſ<g ref="char:EOLhyphen"/>guiſe.</p>
+               <p>2. <hi>They called ſuch to Adminiſter,</hi> &amp;c.] againſt all his winding to get clear of this, I only ſay, <hi>Thomas Gola</hi> was thus imployed, con<g ref="char:EOLhyphen"/>cerning whom too much hath been ſaid, except we had better to ſay.</p>
+               <p>3. <hi>They have received ſuch as have (juſtly) for moral evils been caſt out of other Churches;</hi> adde, and never given Chriſtian ſatisfaction. Here he endeavours a <hi>ſalvo.</hi> The perſons inſtanced are <hi>Thomas Foſ<g ref="char:EOLhyphen"/>ter,</hi> and <hi>John Farnham;</hi> the former ſometimes of the Church at <hi>Bil<g ref="char:EOLhyphen"/>lerica</hi> the other of the <hi>ſecond gathered Church in Boſton.</hi> He acknow<g ref="char:EOLhyphen"/>ledgeth they have received them, but on juſt reaſons, or (at worſt) not very irregularly. Let the Records of theſe Churches be com<g ref="char:EOLhyphen"/>pared with this Narrative, and ſee if the <hi>Anabaptiſts</hi> have not good skill in painting, and putting a fair face on a foul matter.</p>
+               <p>1. For <hi>Thomas Foſter,</hi> let it be obſerved.</p>
+               <p>1. That he was not only a Member of the Church of <hi>Billerica,</hi> but of the Foundation, and at their gathering was full, free, and for<g ref="char:EOLhyphen"/>ward in owning Infant Baptiſme to be an Ordinance of Chriſts Inſti<g ref="char:EOLhyphen"/>tution: and if he judged himſelf (that notwithſtanding) to have been then a true Chriſtian he ought to have extended more charity (then his after expreſſions ſhewed) to the Church ſtill remaining of the ſame perſwaſion.</p>
+               <p>2. That he firſt diſcovered his receding from that (formerly recei<g ref="char:EOLhyphen"/>ved) judgement, by diſorderly carriage at the time of Adminiſtration of that Ordinance, and being reproved for it, he confeſſed he had carried unbecoming any perſon in any Chriſtian Aſſembly; which gave ſatisfaction to the Church.</p>
+               <p>3. Though, (when about three months after this, he began, and thence continued to leave the meeting at the celebration of Baptiſm,) he was, at a private Church meeting given to underſtand that it grie<g ref="char:EOLhyphen"/>ved the Brethren, and that he had receded from his Covenant; and was adviſed ſolemnly and ſeriouſly to conſider of it, yet he was not (as the Narrator aſſerts) laid under Admonition, or prohibited Com<g ref="char:EOLhyphen"/>munion: nor did the Church ever do any ſuch thing in private to any, (which he knew) nor did they intend for this, to have debarred him of Communion.</p>
+               <pb n="17" facs="tcp:100142:13"/>
+               <p>4. That after this, he neglected the Church Aſſemblies; and fre<g ref="char:EOLhyphen"/>quented the <hi>Anabaptiſt</hi> meetings, and was there rebaptized: and be<g ref="char:EOLhyphen"/>ing called by the Church at a meeting, at the Paſtors houſe, to give an account of theſe proceedings; though at firſt he diſſembled, yet at length acknowledged, and juſtified his actions, (if falſe charges may be accounted a juſtification:) For he told them;</p>
+               <p>1. That they had <hi>laid him under ſin, whereas he thought he had not done amiſs;</hi> but they had not ſo done judicially; though they told him his carriage was a grief to his Brethren: nor (as I have ſaid before) had intended it; ſo far is the Narration from ſpeaking truth, when it ſaith <hi>nothing but matter of Conſcience was</hi> (or could be) <hi>laid to his charge.</hi>
+               </p>
+               <p>2. <hi>That they denied him Baptiſme:</hi> whereas they owned him for Baptized, and if he was not it was wickedneſs in him (an unbaptized perſon) to come to the Lords Table.</p>
+               <p>3. <hi>That they yoked him with <g ref="char:V">Ʋ</g>nbelievers:</hi> which was, becauſe they extended Church watch to a Child (or children) of the Church: and yet, for this, he judged his ſeparation lawful, and produced for it 2 <hi>Cor.</hi> 6. 14. 15, 17. therein (implicitly at leaſt) pronouncing the Church a company of <hi>Belialiſts</hi> and <hi>Infidels.</hi>
+               </p>
+               <p>4. <hi>That they had preſented him to the Court</hi>] The truth is, one of the Brethren of the Church, had made complaint of him to the Grand-jury, which occaſioned his preſentment, judging his Free<g ref="char:EOLhyphen"/>mans oath engaged him ſo to do, when other due means to reclaim him from his turbulent carriages had been uſed; and this he makes the Churches fault, becauſe they did not lay that Brother under a cenſure, for not daring to violate his Oath, and betray hia Fidelity to the Civil Authority.</p>
+               <p>5. <hi>That they had dealt injuriouſly by one of his Brethren, in laying him under Admonition</hi>] In juſtification of which act there needs no account be given here; only, let any judge whither it be a juſt ground to ſeparate from a Church, becauſe I am not fully of their mind in every act of Adminiſtration: and alſo, it ſeems a thing not warrantable for a private Member of a Church (in pretence of ſelf<g ref="char:EOLhyphen"/>vindication) to vilifie and aſperſe a Church of Chriſt: if this be hu<g ref="char:EOLhyphen"/>mility, what is pride? But yet,</p>
+               <p>5. The Church ſtill continued to labour his conviction: and when they could not obtain it, after much patience, they called him forth in publick, charged him with offenſive departing, and rending away from the Church; denying himſelf a ſubject of Diſcipline, and vili<g ref="char:EOLhyphen"/>ſying
+<pb n="18" facs="tcp:100142:14"/> the Church by falſe charges: he, obſerving <hi>one</hi> ready to write his Anſwer, refuſed to ſpeak any thing, unleſs <hi>he</hi> were forbidden: and not obteining it, eſſayed to depart; yea, though required by the Officer to ſtay, and hear the Church, he wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ully withdrew: on the following Sabbath, he was for theſe carriages admoniſhed, and de<g ref="char:EOLhyphen"/>barred Communion, and not till then: and after ſome patience uſed, being called forth again, to ſee if it repented him, he remained obſti<g ref="char:EOLhyphen"/>nate, and was therefore Excommunicated: and now compare notes, and ſee what will become of <hi>John Ruſſel's</hi> conſectaries: As for his retaining the reſpect of a very Godly man where he is known (which is ſo boaſted of) it muſt be only among men void of reaſon, for (though we will not ſay but he may have the root in him; yet) he hath blaſted profeſſion, by wicked wayes impenitently perſiſted in, and thereby wounded ſuch mens charity, who judge (as they ought) of the tree by the fruit.</p>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. X.</head>
+               <p>2. Relating to <hi>John Farnum,</hi> we have him confeſſing guilty in ſome things, acknowledging a defect, but would not have it thought <hi>wilful,</hi> nor ſuch as any Church in their imperfection <hi>may not eaſily fall into:</hi> well, they can make great faults little, and ſmall ones none at all. In ſober earneſt<g ref="char:punc">▪</g> we may ſay of this act of theirs about <hi>Far<g ref="char:EOLhyphen"/>num,</hi> that if in nothing elſe they had been guilty, yet that is enough to render them low in the hearts of any good men, and a ſhame to <hi>Anabaptiſts</hi> themſelves. A little in ſo dirty a matter is enough to be ſaid: Therefore,</p>
+               <p>1. They ſay <hi>when he walked in fellowſhip with the Church, he was in reputation among them for a very godly man.</hi>] They ſhould have le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the word (<hi>very</hi>) out: though (in charity) they had hopes he might have the root of the matter in him; yet he was never judged eminent for his piety: it was long ere he could obtain Admiſſion into the Church at <hi>Dorcheſter:</hi> &amp; ſome diſcerning Chriſtians ever ſuſpect<g ref="char:EOLhyphen"/>ed him to be (<hi>John Farnum</hi>) ſuch an one as he after proved.</p>
+               <p>2. <hi>That he was deputed by them for a Deacon</hi>] and yet neither the preſent Teacher; nor any that have been added to the Church, theſe twenty years, either deputed, or thought him fit for that Office: and whereas there is but one ſurviving of the Founders of that Church, he profeſſeth there is never a ſyllable of truth in that report.</p>
+               <p>3. <hi>That the Churches diſſatisfaction was chiefly upon account of his Opinion.</hi>
+               </p>
+               <pb n="19" facs="tcp:100142:14"/>
+               <p>4. <hi>The rugged ſpirit in theſe men againſt Diſſenters, was the cauſe of his withdrawing.</hi>
+               </p>
+               <p>5. <hi>Other things were gathered to this, having a face of Scandal.</hi>
+               </p>
+               <p>A true ſurvey of the Churches proceedings, will ſhew the va<g ref="char:EOLhyphen"/>nity of theſe Aſſertions: For,</p>
+               <p>1. The Church did not ſo much as deal with him till he had whol<g ref="char:EOLhyphen"/>ly withdrawn Communion from them, refuſing ſo much as to hear the Word Preached with them for many months, no, nor ſo much as de<g ref="char:EOLhyphen"/>clared themſelves offended with him. What now is this rugged ſpirit?</p>
+               <p>2. When he alledged his Opinion, the Teacher of the Church (though poſſibly ſome may think he did more than the rule requi<g ref="char:EOLhyphen"/>red) declared to him, <hi>that if he were ſo weak as not to think it lawful to ſee a Child Baptized, his withdrawing when that Ordinance was Ad<g ref="char:EOLhyphen"/>miniſtred, ſhould not be imputed as an offence:</hi> how is it then that <hi>his</hi> judgement was the principal thing in that proceſs?</p>
+               <p>3. His offence for which he was dealt with, was many moral evils (and ſo a complicate offence) breaking forth at once: <hi>viz.</hi> 1. Re<g ref="char:EOLhyphen"/>nouncing Communion with the Church, contrary to <hi>Heb.</hi> 10. 24. 2. Holding familiarity with Excommunicate Perſons, contrary to <hi>Math. 18 17. 2 Theſſ.</hi> 3. 6, 14. 3. Slanders againſt ſeveral holy and worthy men (now with Chriſt.) 4. That having been often repro<g ref="char:EOLhyphen"/>ved for theſe things he ſtill perſiſted. When the Elders reproved him for theſe ſlanders he replied, that <hi>they might be offenced at a thou<g ref="char:EOLhyphen"/>ſand things, he cared not:</hi> and that <hi>there was never an Elder in</hi> New-England <hi>was willing any ſhould read the Scripture, but themſelves:</hi> Af<g ref="char:EOLhyphen"/>ter this, he was called before the Church, tenderly dealt with, and thoſe Scripture Rules which he had tranſgreſſed were applied to his Conſcience: but in vain.</p>
+               <p>At the third Church Meeting on his account (<hi>Octob.</hi> 16. 1665.) the Paſtor (Mr. <hi>Mayo</hi>) told him it wos expected that after ſo much patience he ſhould manifeſt repentance. His reply was, that <hi>he deſi<g ref="char:EOLhyphen"/>red none of their patience, he was humbled for his ſins.</hi> The Teacher (Mr. <hi>Mather</hi>) ſaying to him, we muſt ſee it by the fruits, he retorted, <hi>you ſee it! you ſhall never ſee it:</hi> ſome Brethren told him his ſpeeches and carriage were very ſinful, they had never ſeen the like, he replied. <hi>I did not come hither to be ſnub'd and ſnarl'd at by every one,</hi> and ſo he turned his back to depart: the Paſtor wiſhed him to ſtay and hear what further they had to ſay, and ſeeing him ſtill proceed, charged him in the Name of the Church and of Chriſt to ſtay: he rejoyned,
+<pb n="20" facs="tcp:100142:15"/> 
+                  <hi>do not uſe the Name of Chriſt to me, I am not one that can how and ſtoop to every one; &amp; exit.</hi> The ſame day he told ſome of the Brethren that he wiſhed the Church would Excommunicate him, and then he ſhould be of a better ſociety. On all theſe accounts was he laid un<g ref="char:EOLhyphen"/>der Admonition. Two months after which, being called before the Church, he, in words, confeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the evil of ſome of the particulars but was obſerved at the ſame time to turn about and laugh: where then was his Repentance? The Church (this notwithſtanding) waited divers months longer, till he went on to that height of impiety and prophaneneſs, that one of the Teaching Officers ſetting before the Church the Rule concerning Excommunication <hi>Farnum</hi> makes a <hi>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g</hi> to him (in the Aſſembly) in way of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eriſion, and declared, that ex<g ref="char:EOLhyphen"/>cept the Church would yield to four things, he would have no com<g ref="char:EOLhyphen"/>munion with them: <hi>viz 1. They muſt ſet up the Ordinance of Pro<g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſie. 2 Promiſe to Baptize no more Infants. 3. All be Baptized</hi> (i. e. <hi>rebaptized) themſelves. 4. Put away their preſent (and ſtill continuing) Teacher from his Office.</hi> Upon theſe things the Church concluded upon his cenſure, only allowing him another months pati<g ref="char:EOLhyphen"/>ence: after which (no repentance appearing) they proceeded.</p>
+               <p>Now judge: 1. Whither theſe things have no more than a <hi>face</hi> of ſcandal and that too, only as they are taken and conſtrued. 2. Whither their Admiſſion of him, were not more than a meer de<g ref="char:EOLhyphen"/>fect in thoſe who ſo admitted him, yea, a meer ſcandal<g ref="char:punc">▪</g> ſtinking in the noſthrils of moral men. 3. Whither if it were but a defect, it were not a <hi>wilful</hi> one, ſince they either had, or might have had, an account of the Churches proceedings with him; and ought to have inquired after the true cauſe of his Excommunication, before they received him. Well, it was but a little fault, and a little amendment was enough: and what was that? <hi>when clamors were revived and re<g ref="char:EOLhyphen"/>newed:</hi>] and then to ſpeak of open and notorious wickedneſs, if it be approved by a ſociety of Anabaptiſts, is <hi>Clamour.</hi> But it's well a clamour rouſed them; whom ſerious warnings and informations could not. And <hi>now the Church</hi> (in good time) <hi>are diſſatisfied, and deter<g ref="char:EOLhyphen"/>mine to make ſearch:</hi>] But they knew before, that he was Excommu<g ref="char:EOLhyphen"/>nicated: only becauſe he was an Anabaptiſt, they concluded it was for his Opinion: We ſee what harm too much credulity doth men. <hi>Now they ſend Meſſengers,</hi> &amp;c. <hi>procure a copy of proceedings, and are convinced,</hi> (better late then never) <hi>ſuſpend him, bring him to give them ſatisfaction, adviſe him to ſatisfie the Church he had offended:</hi>] patcht cobling work! a good <hi>Shoe-maker</hi> would have ſcorn'd it. Who
+<pb n="21" facs="tcp:100142:15"/> appointed the Anabaptiſt Church to be a ſpiritual Court of Appeals, to judge caſes for, and receive ſatisfaction on the account of another Church, in reſpect of any of their Members? <hi>Ex ungue Leonem,</hi> this teacheth us what Lordly men they would be, had they advantage. But <hi>he did apply himſelf to that Church, and all were well ſatisfied but one:</hi>] How did <hi>Goodman Ruſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> know this? ſuppoſe all but one re<g ref="char:EOLhyphen"/>mained diſſatisfied; nay what if not ſo much as one was well ſatisfied? where are we then? except he know them better then they know themſelves; both the Elder and Brethren utterly deny the truth of this paſſage It is true indeed he did once and again (in writing) acknowledge <hi>that the Church had exerciſed patience towards him, and that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e had been guilty of ſin, and great evil; both in word and action:</hi> and (orally) before the Church he confeſſed, <hi>he had done very wick<g ref="char:EOLhyphen"/>edly, and was aſhamed of himſelf:</hi>] The Church then had done well. But why is he not (then) upon this reſtored? alas! this he ſought not; but, the very next day declared, that <hi>if he ſhould return into Communion with that Church, it would be the greateſt ſin that ever he had been guilty of in his life:</hi> which made the Brethren ſuſpect his Con<g ref="char:EOLhyphen"/>feſſion to be inſyncere, and yet this ſatisfies the Anabaptiſts; they ſtill continue to hold Communion with a vile perſon juſtly caſt out, not ſee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to be reſtored; and therefore (by the will of Chriſt) to be counted and carried to, as an Heathen and a Publican.</p>
+            </div>
+            <div n="11" type="section">
+               <head>SECT. XI.</head>
+               <p>3. <hi>That we are diſorderly, and walk diſorderly,</hi>] For all his plau<g ref="char:EOLhyphen"/>ſible excuſe, and abuſe of Scripture in it, there needs no more but to conſider, whither it be not to walk diſorderly, to receive into their Communion perſons that are under Church dealing for moral evils, yea excommunicate Impenitents: and not to withdraw from them, after they have confeſſed they miſſed it in ſo doing. If this be not diſorder, to ſet up a Church for a Sanctuary, or City of Refuge for ſcandalous men who (ſcorning to ſubmit to the diſcipline of Chriſt) preſently take up Anabaptiſme, and know where to be made welcome; we may then enquire whither there be any ſuch thing as Diſorder.</p>
+            </div>
+            <div n="12" type="section">
+               <head>SECT. XII.</head>
+               <p>4. <hi>We are diſturbers of the publick peace:</hi>] that this hath (<hi>in terminis</hi>) been charged upon them, I find not: but that they have made diſturbance among us, is true; what elſe have been the carria<g ref="char:EOLhyphen"/>ges of ſome (now <hi>theirs</hi>) when of other Churches? with the
+<pb n="22" facs="tcp:100142:16"/> courſes they have taken to make parties? what their many com<g ref="char:EOLhyphen"/>plaints into <hi>England,</hi> and miſrepreſentations of us, to render us as obnoxious as might be, and what this Narrative?</p>
+            </div>
+            <div n="13" type="section">
+               <head>SECT. XIII.</head>
+               <p>5. <hi>That we are underminers of the Churches</hi>] and is not this true neither? alas that in all things we ſhould ſo miſtake! But this we mean, that ſuch of theſe men as ſometimes ſtood in relation to other Churches, ſought to draw others away with them: witneſs <hi>Thomas Gola's</hi> pri<g ref="char:EOLhyphen"/>vate meeting in his own houſe for many years: where (living two miles diſtant from the publick place of Worſhip) their Neighbours (I ſpeak things known) were drawn in, and there were the <hi>Churches vilified, and Miniſters ſcoffed at,</hi> and means uſed to aliena<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e mens hearts: and not only ſo, but they have publiſhed to the World that Infant Baptiſme is a nullity, that we are Churches of unbaptized men and women, and have unbaptized Officers; by theſe pleas ſeeking to draw men off: and if this be their reduction, it is in vain diſtin<g ref="char:EOLhyphen"/>guiſhed from deſtruction; and is properly Seduction. Adde to this, their readineſs to receive any diſcontented perſons, ſo that if any be under offence in any of <hi>our</hi> Churches (though he be never ſo vile) let him but turn Anabaptiſt, they will take up his caſe, if he can ſatiſ<g ref="char:EOLhyphen"/>fie them (and we may think a little will do) let his <hi>own</hi> ſeek it where they can get it: is not this undermining? nay, have they not by ther unjuſt clamours, and falſe reports, done more hurt to the Chur<g ref="char:EOLhyphen"/>ches of Chriſt in <hi>New-England,</hi> than all their Enemies in the world beſides?</p>
+            </div>
+            <div n="14" type="section">
+               <head>SECT. XIV.</head>
+               <p>6. <hi>We neglect publick Worſhip on the Lords Day</hi>] What he brings here for juſtification, is (to us) a confeſſing guilty; that is it we mean, and therefore what we ſay, is not <hi>utterly untrue:</hi> only the reaſons they give for their ſeparation, are miſrepreſented. Whereas they ſay, <hi>we would not admit any of them to communion with us:</hi> they know that our Churches have received ſome that were ſcrupulous about In<g ref="char:EOLhyphen"/>fant Baptiſme, who were willing to carry inoffenſively: that we have refuſed ſuch as were rebaptized among theſe Excommunicate Ana<g ref="char:EOLhyphen"/>babtiſts, is true hypothetically, <hi>viz.</hi> except they would acknowledge and repent of that act: becauſe we judge it ſcandalous. And where<g ref="char:EOLhyphen"/>as he tells the World, <hi>We have been ſhut out of our publick houſe, and the doors nailed up, and we forced to meet without in the open Air, on a very cold day:</hi>) he ſeems to have forfeited all honeſty, ſo to relate.
+<pb n="23" facs="tcp:100142:16"/> It is true, the Civil Authority here, have (by a very needful Law) prohibited any from erecting any publick Meeting Houſe, without the conſent of the Freemen of the Town where they live firſt order<g ref="char:EOLhyphen"/>ly had and obtained at a publick Meeting aſſembled for that end; and Licenſe of the County Court; &amp;c. Without ſuch a Law many hope<g ref="char:EOLhyphen"/>ful Plantations would have come to nothing. And it equally con<g ref="char:EOLhyphen"/>cerned all others, with Anabaptiſts; and yet theſe men (negle<g ref="char:EOLhyphen"/>cting this Law) undertake ſuch a buſineſs. Report of this is made to the Civil Magiſtrate, who enquired into it, and theſe fallaci<g ref="char:EOLhyphen"/>ouſly pretend it might be for a Warehouſe, or a Brew-houſe; thus they ſtill proceed, till it become a Meeting Houſe, and is met in on the Lords dayes: Now are they again called before the Council, juſt<g ref="char:EOLhyphen"/>ly reproved for ſlighting the Law, and for Diſſimulation; and loving<g ref="char:EOLhyphen"/>ly deſired to be content to meet in private (as before) till the Gene<g ref="char:EOLhyphen"/>ral Court (near approaching) might hear and determine this matter. They refuſing to promiſe ſo to do<g ref="char:punc">▪</g> Order was given to nail up their doors: whereupon the Anabaptiſts ſullenly meet in the open Air on a cold day (though a large houſe, and their uſual place of meeting ſtood juſt by) that they might make matter to frame a ſcandalous clamour out of: yet were the Doors ſoon broken open again, and they there publickly meet before the Court. Now I only deſire to be ſa<g ref="char:EOLhyphen"/>tisfied who gave theſe men leave to trample all Authority under foot, and live as men that are lawleſs?</p>
+            </div>
+            <div n="15" type="section">
+               <head>SECT. XV.</head>
+               <p>7. <hi>That we are Idolaters:</hi>) For this they quote the late Synod-Book, but there is no ſuch word there: we have not been afraid to charge them with the breach of the ſecond Commandment. Every declining from the Rules of Worſhip, omiſſion, or alteration of Di<g ref="char:EOLhyphen"/>vine Inſtitutions, without immediate warrant from the Law-giver, is againſt that Command.</p>
+            </div>
+            <div n="16" type="section">
+               <head>SECT. XVI.</head>
+               <p>8. <hi>We are charged to be enemies of Civil Government.</hi>) I find no ſuch charge: The firſt Germane Anabaptiſts were ſo, we hope theſe (though they have ſhown too much contempt of Authority) are not ſo far gone. But for his ſo gloriouſly emblazoning their ſervice in the late Wars, it is neither to the purpoſe, nor of much moment. That they did joyn againſt the common Enemy is true: <hi>Swanzy</hi> (a place chiefly conſiſting of <hi>Anabaptiſts,</hi> and where they had a Church) was the place where the Enemy made the firſt onſet (which Church
+<pb n="24" facs="tcp:100142:17"/> alſo (being one of two) was as much removed as our four (of a<g ref="char:EOLhyphen"/>bove forty) they ſo tauntingly upbraid us with <hi>page</hi> 15.) Beſides, any man would fight, rather than have his throat cut; it was not for Religion, nor Civil Government, but for lives and eſtates. For Cap<g ref="char:EOLhyphen"/>tain <hi>Turner,</hi> we have not abridged him ought of his due acknow<g ref="char:EOLhyphen"/>ledgement, in what hath been publiſhed. But for his acts at <hi>Connecticut</hi> Falls, they are hyperbolically diſcribed: for 1. There was another Captain and his Company, joyned with him in that undertaking, a man of appoved valour and conduct, which at that time he diſcover<g ref="char:EOLhyphen"/>ed in his prudent drawing off his men. 2. Captain <hi>Turner</hi> was at that time by ſickneſs d ſabled from do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng much. 3 God ſaw meet to ob<g ref="char:EOLhyphen"/>ſcure the victory by the affrighted and diſorderly retreat of our men, the ſlaughter of many, and death of Captain <hi>Turner.</hi> Nor did the <hi>Indians</hi> receive the greateſt blow at that time; nor is it the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi> true, but vain glory, to ſet ſuch an encomium upon their own deeds.</p>
+            </div>
+            <div n="17" type="section">
+               <head>SECT. XVII.</head>
+               <p>We have diſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed the charge, now comes a ſtrong A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gument of their Orthodoxy, a witneſs from Heaven, <hi>viz.</hi> their <hi>happy preſerva<g ref="char:EOLhyphen"/>tion in the time of the Small Pox</hi>) Let it be remembred, that one of their perſwaſion di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of it at <hi>Woborn</hi> (where <hi>John Ruſſel lived,</hi> and ſhould have obſerved it) and many of their Children. But be it ſo; their Society is ſmall, and ſcattered from <hi>Dan</hi> to <hi>Beerſheba.</hi> And who knows; but God might ſpare them in judgement, to harden them? Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe things are too high for us: only when God comes to ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſten his People, thoſe that are not chaſtened, may ask whither they are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Baſtards.</p>
+            </div>
+            <div n="18" type="section">
+               <head>SECT. XVIII.</head>
+               <p>And now he had done, had not a Book of Mr. <hi>Mather's</hi> come out, to which he hath a few words to ſay: and a few he thinks are enough to conſute ſo weak and ſilly a piece, It is Titled, <hi>The divine right of Infant Baptiſme:</hi> Anſ. <hi>ſooner ſaid then proved.</hi> Excellently refuted! But he hath a word more in general, and one or two in particular to ſay to it.</p>
+               <p>1. In general, <hi>Any ſober unbyaſſed Chriſtian may be ſatisfied, that the main (or one main) deſign of it, is to render all that are nicknamed</hi> Anabaptiſts <hi>as odious as he could</hi>) I am ſorry for it, that ſo good a Book ſhould have ſo bad a deſign: but he is no unbyaſſed Chriſtian who aſſerts it: and it is ſtrange that that worthy man, whoſe charity hath been ſo large to ſuch men (as is well known) ſhould be thus
+<pb n="25" facs="tcp:100142:17"/> guilty, and if he be, truly it is <hi>very unhappy.</hi> But divers that have read the Book, cannot ſpy it; I fear it is a ſuſpitious and cenſorious ſlan<g ref="char:EOLhyphen"/>der. For his Arguments, It's Anſwered, <hi>they are no new ones</hi>] And I like them the better; <hi>veriſſimum eſt antiquiſſimum.</hi> Had he brought novel pleas, I had ſuſpected him, as I do (for that reaſon) the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts:</hi> nay, he tells us, (<hi>page</hi> 2.) he intends old Arguments, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no other. But what then? they muſt have no new Anſwer, <hi>being ſufficiently confuted already.</hi> I am glad of that, he ſaves me ſome la<g ref="char:EOLhyphen"/>bour by it. He <hi>blames him not for diſputing for what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e believes</hi>) nor I neither, but think he deſerves commendation, and God hath bleſ<g ref="char:EOLhyphen"/>ſed it to the reclaiming of ſeveral that way i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clined, and ſet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g many more in the truth. But why ſhould Mr. <hi>Mather wickedly in<g ref="char:EOLhyphen"/>jure holy men, by arguing, An Opinion muſt needs be bad, becauſe the Pro<g ref="char:EOLhyphen"/>feſſors of it have miſcarried.</hi>) But Mr. <hi>Mather</hi> hath expreſly decla<g ref="char:EOLhyphen"/>red againſt any ſuch concluſion. (<hi>Page</hi> 25.) This is the ſum of his Argument. <hi>That Opinion which hath been attended with ſignal judge<g ref="char:EOLhyphen"/>ments on the firſt and chief aſſertors of it, and generality of thoſe that have (eſpecially at firſt) embraced it, is to be ſuſpected as Erroneous.</hi> And is it any harm for men to ſuſpect themſelves, when God ſeems to frown on them? do not the <hi>Anabaptiſts</hi> allow this Argument; and therefore plead that God kept and increaſed them under perſecution, (<hi>page</hi> 2) and wonderfully preſerved them in times of ſickneſs, (<hi>page</hi> 12.) which they deſire may be obſerved; (though this is of little weight, becauſe theſe are not the firſt, nor the chief.) And do not the generality of the Orthodox, improve this Argument againſt Hereticks? doth not <hi>John Ruſſel</hi> uſe it againſt <hi>us? (page</hi> 15.) what beſel <hi>Corinthus, Manicheus, Arius,</hi> &amp;c? Dr. <hi>Beards</hi> Theater of Gods Judgements, Mr. <hi>Clarks</hi> Examples, and others may ſpeak for this. Nay, was it not thus with <hi>Korah,</hi> with <hi>Ananias and Saphira?</hi> and for Gods judicially leaving them to ſcanda lous evils. See <hi>Mat. 7. 15, 16. 2 Tim.</hi> 3. 13. and what befel the firſt <hi>Anabaptiſts?</hi> ſee <hi>Sleidan's</hi> Commentaries, and other Authors of great note, quoted by Mr. <hi>Mather.</hi>
+               </p>
+            </div>
+            <div n="19" type="section">
+               <head>SECT. XIX.</head>
+               <p>2. But there is a thing or two in particular which he cannot paſs, they touch him ſo near. Mr <hi>Mather chargeth them with the ſin of Jeroboam, but they are not concerned in, or with it.</hi>) The Text alluded to, is, 1 <hi>Kings</hi> 12. 31. the Original is, <hi>Jeroboam made Prieſts of the extremities of the People;</hi> both ends comprehend the whole (ſee <hi>Dienſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> in <hi>Ezek.</hi> 33. 1.) It was <hi>Jeroboams ſin,</hi> that any that would
+<pb n="26" facs="tcp:100142:18"/> might (under him) be made Prieſt; fit, or unfit. The <hi>Belgick</hi> and others read it, of <hi>both ends of the People.</hi> If a fit man would accept it, ſo; if not, to the other end, and take one unfit. The <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi> would have a learned Man, if they could get one of their mind; if not, <hi>John Ruſſel</hi> the <hi>Shoemaker.</hi> The learned <hi>Zepperus. De polit. Eccl. p.</hi> 186. lamenting the low and miſerable eſtate of Reli<g ref="char:EOLhyphen"/>gion, gives this for one reaſon of it; they make <hi>Miniſtros De extre<g ref="char:EOLhyphen"/>mitatibus populi,</hi> i. e. <hi>Sartoribus, Sutoribus, Idiotis,</hi> &amp;c.</p>
+               <p>He doth <hi>not think the Spirit is locked up in the narrow limits of Col<g ref="char:EOLhyphen"/>ledge Learning.</hi>) No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we neither; nor yet Miniſterial gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts to be (or<g ref="char:EOLhyphen"/>dinarily) acquired in a <hi>Shoemakers</hi> Shop. We believe men are to be inſtructed, and endeavours uſed; and that there are Schools of the <hi>Prophets</hi> to that end, or there may be private m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans uſed. We believe a learned man may prove v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tious<g ref="char:punc">▪</g> and ſo not fit to be impro<g ref="char:EOLhyphen"/>ved in that work. We believe every true Chriſtian receives the ſpi<g ref="char:EOLhyphen"/>rit in his meaſure; but that he therefore is fit to teach and inſtruct a Congregation, is an Enthuſiaſtic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l notion. Truly, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Goodman Ruſſel</hi> was a fit man for a Miniſter, we have but fooled our ſelves in building Colledges, and inſtructing our Children in learning.</p>
+               <lg>
+                  <l>Frange leves calamos, &amp; ſcinde Thalia libellos;</l>
+                  <l>Si dare S<g ref="char:V">Ʋ</g>TORI, CALCE<g ref="char:V">Ʋ</g>S iſta poteſt. <bibl>
+                        <hi>Mart.</hi>
+                     </bibl>
+                  </l>
+               </lg>
+               <p>We have enough of his <hi>Laſt</hi> to people <hi>New-England</hi> with Pro<g ref="char:EOLhyphen"/>phets.</p>
+            </div>
+            <div n="20" type="section">
+               <head>SECT. XX.</head>
+               <p>One thing more, and he will diſmiſs us: Mr. <hi>Mather</hi> chargeth them with a pernicious Principle in their Confeſſion of Faith, <hi>viz.</hi> That <hi>Believers Baptized are viſible Chriſtians, and fit matter for a vi<g ref="char:EOLhyphen"/>ſible Church.</hi>) How may the altering of a word or two change the ſence? the words of their Confeſſion are, <hi>Believers, being Baptized are viſible Saints, and true matter of a viſible Church.</hi> Hence (if the <hi>Anabaptiſts</hi> would give leave to draw conſequences, (but then they would never have done with us, and that is the reaſon they cannot re<g ref="char:EOLhyphen"/>ceive our Arguments for Infant Baptiſme, becauſe they are nothing but a few conſequences, and that is nothing to the purpoſe:) a man might argue that Believers being unbaptized are not viſible Saints; &amp; we know they acknowledge n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne Baptized but themſelves: and that will bring in another conſequence, that there are no viſible Saints but <hi>Anabaptiſts,</hi> But ſuppoſe a man cannot reach them a blow with a conſequence; let them yet ſay, is Baptiſme adminiſtred to perſons within the viſible Church, or without it? Beſides, they ſay, Baptized
+<pb n="27" facs="tcp:100142:18"/> perſons are true matter of a viſible Church, and they ſay thoſe that were only ſprinkled in their Infancy, were never Baptized: and will not this undermine the foundation of all the Churches in the world, but theirs? and what more pernicious? They had even as good cry with <hi>Edom's</hi> Sons, <hi>Raze it, Raze it to the Foundation.</hi>
+               </p>
+               <p>And now he cannot chuſe but burſt out into a lamentation over ſuch a ſpirit: But thus it will be in the world, that the joy of ſome, will be made the grief of others; the triumph of truth, will be the mourning of error: I pray God this cauſe of the Anabaptiſts lamen<g ref="char:EOLhyphen"/>tation may be continued, by the conſtant ſupply of men zealous a<g ref="char:EOLhyphen"/>gainſt errors.</p>
+            </div>
+            <div n="21" type="section">
+               <head>SECT. XXI</head>
+               <p>For a Concluſion the Narrator turns Prophet, &amp; gets up to the top of Mount <hi>Ehal,</hi> and there curſes the people of God, or theſe Churches in <hi>New-England:</hi> and what is it ſo ſtirs his ſplene? why they have born their witneſs faithfully againſt Anabaptiſts Errors and Scandals and detected the ſin of thoſe men who, after they have (for Lyes' Slanders, Covenant breaking, deſpiſing Gods Miniſters, and ſlighting the Admonitions of their reſpective Churches) been in Chriſts Name delivered up to Satan, have joyned themſelves in erecting and eſtabliſhing an <hi>Anti-Temple,</hi> and (like the <hi>Samaritans</hi> of old) be<g ref="char:EOLhyphen"/>come a <hi>Mount-Gerizzim,</hi> a <hi>Den,</hi> and <hi>Receptacle</hi> for every mal-con<g ref="char:EOLhyphen"/>tent and ſcandalous perſon (that cannot ſubmit to the Diſcipline of Chriſt in his Churches) to repair unto. And now for this they are compared to thoſe damnable Hypocrites mentioned <hi>Mat.</hi> 24. 49. and threatned with no leſs then eternal deſolation. We ſee what men may come to in time, begin with falſhoods, and end with cur<g ref="char:EOLhyphen"/>ſings. But cauſeleſs curſes ſhall not come, nor need theſe Churches regard, if they keep faithful to their God, though <hi>Anabaptiſts</hi> Ana<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>matize them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
